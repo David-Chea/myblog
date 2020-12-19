@@ -1,3 +1,6 @@
+html {
+    scroll-behavior: smooth;
+}
 body {
     margin: 0;
     padding-top: 800px;
@@ -49,7 +52,7 @@ h2 {
 
 }
 
-#bio {
+#bio, #videos {
     padding: 50px;
     text-align: center;
     font-size: 42px;
